@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/boxing-vr/Content/Widgets/HealthBar/Healthbar.uasset",
+				"D:/boxing-vr/Content/GDXR_VR_Template/Blueprints/BP_VR_Character_Manny.uasset"
+			]
+		}
+	]
+}
